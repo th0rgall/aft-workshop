@@ -8,6 +8,6 @@ Bram Luyten
 Hi! My name is (what?)
 My name is (who?)
 My name is
-azerty
+Az Erty
 Jense5 (y)
 
